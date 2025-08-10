@@ -27,7 +27,7 @@ Why: It’s a commonly referenced High Court with public search, typically ASP.N
 
 ## Tech Stack
 
-- Next.js App Router (RSC where applicable, API Routes for backend) [^1][^2]
+- Next.js App Router (RSC where applicable, API Routes for backend) 
 - TypeScript
 - shadcn/ui for UI components
 - cheerio for HTML parsing
@@ -59,7 +59,7 @@ Important: Use CAPTCHA solving services only where legal and permissible for pub
 
 ## Setup
 
-1) Install and run (using v0's built-in installer or manually):
+1) Install and run :
 
 \`\`\`
 pnpm i
